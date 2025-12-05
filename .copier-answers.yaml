@@ -1,0 +1,12 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: d7afb90
+_src_path: ./
+accountname: quickplates
+backend: local
+description: Terraform resources example 🌎
+docs: true
+docsurl: https://quickplates.github.io/terraform-example
+projectname: terraform-example
+reponame: terraform-example
+repourl: https://github.com/quickplates/terraform-example
+statefile: terraform.tfstate
